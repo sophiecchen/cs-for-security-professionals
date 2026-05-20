@@ -8,9 +8,13 @@ This course follows Amir Kamil's [Foundations of Computer Science](https://eecs3
 
 | Number | Lecture | Recommended Homework | 
 | - | - | - |
-| 1 | Intro and Models of Computation | - |
+| 1 | Introduction | - |
 | 2 | Languages and Automata | - |
 | 3 | Turing Machines | - |
-| - | TODO | - |
-| - | P vs NP | - |
-| - | NP-Complete Problems | - |
+| 4 | Decidability and Undecidability | - |
+| 5 | The Acceptance and Halting Problems | - |
+| 6 | Reducibility | - |
+| 7 | Recognizability | - |
+| 8 | P vs NP | - |
+| 9 | NP-Complete Problems | - |
+| 10 | The Cook-Levin Theorem | - |
