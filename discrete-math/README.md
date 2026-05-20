@@ -9,3 +9,10 @@ This course uses Oscar Levin's [Discrete Mathematics: An Open Introdution](https
 | Number | Lecture | Recommended Homework | 
 | - | - | - |
 | 1 | Intro and First-Order Logic | ? |
+| 2 | Intro to Proofs | ? |
+| 3 | Induction | ? |
+| 4 |  | ? |
+| 5 |  | ? |
+| 6 |  | ? |
+| 7 |  | ? |
+| 8 |  | ? |
