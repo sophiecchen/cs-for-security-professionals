@@ -9,3 +9,8 @@ This course follows Amir Kamil's [Foundations of Computer Science](https://eecs3
 | Number | Lecture | Recommended Homework | 
 | - | - | - |
 | 1 | Intro and Models of Computation | - |
+| 2 | Languages and Automata | - |
+| 3 | Turing Machines | - |
+| - | TODO | - |
+| - | P vs NP | - |
+| - | NP-Complete Problems | - |
